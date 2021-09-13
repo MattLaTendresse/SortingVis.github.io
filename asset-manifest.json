@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SortingVis.github.io/static/css/main.1a6c6289.chunk.css",
+    "main.js": "/SortingVis.github.io/static/js/main.d6996b27.chunk.js",
+    "main.js.map": "/SortingVis.github.io/static/js/main.d6996b27.chunk.js.map",
+    "runtime-main.js": "/SortingVis.github.io/static/js/runtime-main.562dfe8d.js",
+    "runtime-main.js.map": "/SortingVis.github.io/static/js/runtime-main.562dfe8d.js.map",
+    "static/js/2.f3bdf1ba.chunk.js": "/SortingVis.github.io/static/js/2.f3bdf1ba.chunk.js",
+    "static/js/2.f3bdf1ba.chunk.js.map": "/SortingVis.github.io/static/js/2.f3bdf1ba.chunk.js.map",
+    "static/js/3.4d4bd643.chunk.js": "/SortingVis.github.io/static/js/3.4d4bd643.chunk.js",
+    "static/js/3.4d4bd643.chunk.js.map": "/SortingVis.github.io/static/js/3.4d4bd643.chunk.js.map",
+    "index.html": "/SortingVis.github.io/index.html",
+    "static/css/main.1a6c6289.chunk.css.map": "/SortingVis.github.io/static/css/main.1a6c6289.chunk.css.map",
+    "static/js/2.f3bdf1ba.chunk.js.LICENSE.txt": "/SortingVis.github.io/static/js/2.f3bdf1ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.562dfe8d.js",
+    "static/js/2.f3bdf1ba.chunk.js",
+    "static/css/main.1a6c6289.chunk.css",
+    "static/js/main.d6996b27.chunk.js"
+  ]
+}
